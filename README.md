@@ -19,6 +19,6 @@ Built with Python and PyQt, with support for Serial, TCP, and UDP communication.
 - **Runner** — Execute tests with loops, delays, expected responses, timeouts, and response validation
 - **License Management** — Server-backed activation and license management system
 
-🌐 **Website:** https://termexa-website.termexa.workers.dev
+🌐 **Website:** https://termexa.pages.dev
 
 > Termexa is actively developed as a private-source project.
