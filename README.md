@@ -22,3 +22,9 @@ Built with Python and PyQt, with support for Serial, TCP, and UDP communication.
 🌐 **Website:** https://termexa.pages.dev
 
 > Termexa is actively developed as a private-source project.
+
+### Coding Exercises
+
+A collection of Python coding exercises focused on problem solving and programming practice.
+
+📁 **Exercises:** [coding-exercises](./coding-exercises)
